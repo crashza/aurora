@@ -1,5 +1,5 @@
 <?php
-class AUTH {
+class Auth {
     protected $salt = "uP43C48hFq";
     public function login() { 
 		if(isset($_COOKIE['ID_my_site'])){
