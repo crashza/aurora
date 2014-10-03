@@ -1,8 +1,0 @@
-drwxrwxr-x. 2 trevors trevors  4096 Oct  2 20:33 docs
-drwxrwxr-x. 2 trevors trevors  4096 Oct  2 21:12 includes
--rw-rw-r--. 1 trevors trevors  1347 Oct  2 21:05 index.php
--rw-rw-r--. 1 trevors trevors 18026 Oct  2 20:43 LICENSE.md
-drwxrwxr-x. 2 trevors trevors  4096 Oct  2 20:34 media
-drwxrwxr-x. 2 trevors trevors  4096 Oct  2 20:34 misc
-drwxrwxr-x. 2 trevors trevors  4096 Oct  2 20:34 scripts
-drwxrwxr-x. 2 trevors trevors  4096 Oct  2 20:34 stylesheets
